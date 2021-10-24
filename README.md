@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Titulo
 
 You can use the [editor on GitHub](https://github.com/Mpazlaboratorio/Blog_ideasypruebas/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
